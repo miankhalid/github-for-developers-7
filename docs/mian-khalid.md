@@ -6,3 +6,4 @@ Field | Value
 **From** | Lahore
 **Food** | Noodles
 **Hobby** | Gaming
+**Color** | Green
